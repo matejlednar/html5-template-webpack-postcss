@@ -1,6 +1,6 @@
 # HTML5 Template + webpack + PostCSS - full version
 
-HTML5 template with CSS, JS, images, and fonts support with CSS and JS optimization (minimizers).
+HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS optimization (minimizers).
 
 ## Prerequisites
 
