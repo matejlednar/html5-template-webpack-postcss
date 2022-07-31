@@ -30,7 +30,8 @@ Location: dist/index.html
 
 #### webpack 
 
-Edit webpack.config.js file.<br>
+Edit webpack.config.js file.
+
 Use development value for application development.<br>
 Use production value for the build.
 
