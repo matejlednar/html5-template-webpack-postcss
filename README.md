@@ -28,14 +28,18 @@ Location: dist/index.html
 
 ### Configuration
 
-#### webpack
+#### webpack 
+
+Edit webpack.config.js file.
 
 Use development value for application development.
 Use production value for the build.
 
 ``` mode: "production", // production | development```
 
-#### npm
+#### npm 
+
+Edit package.json file.
 
 Change the entry point here.
 
