@@ -31,7 +31,6 @@ Location: dist/index.html
 #### webpack 
 
 Edit webpack.config.js file.
-
 Use development value for application development.
 Use production value for the build.
 
