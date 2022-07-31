@@ -30,8 +30,8 @@ Location: dist/index.html
 
 #### webpack 
 
-Edit webpack.config.js file.
-Use development value for application development.
+Edit webpack.config.js file.<br>
+Use development value for application development.<br>
 Use production value for the build.
 
 ``` mode: "production", // production | development```
