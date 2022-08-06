@@ -6,7 +6,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
-  mode: "production", // production | development
+  // mode: "production", // production | development
   entry: "./src/js/script.js",
   output: {
     path: path.resolve(__dirname, "dist"),
