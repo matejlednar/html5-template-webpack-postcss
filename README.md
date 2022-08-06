@@ -30,15 +30,6 @@ Location: dist/index.html
 
 ### Configuration
 
-#### webpack 
-
-Edit webpack.config.js file.
-
-Use development value for application development.<br>
-Use production value for the build.
-
-``` mode: "production", // production | development```
-
 #### npm 
 
 Edit package.json file.
