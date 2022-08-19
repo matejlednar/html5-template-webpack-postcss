@@ -17,11 +17,11 @@ HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS o
 
 ``` npm run start ```
 
-### Build template/HTML website
+### Build project
 
 ``` npm run build ```
 
-### Run project
+### Run build/production version
 
 Run index.html file.
 You can use the Live server to run index.html.
