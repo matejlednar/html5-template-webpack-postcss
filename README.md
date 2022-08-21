@@ -1,6 +1,5 @@
-# HTML5 Template + webpack + PostCSS - full version
-
-HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS optimization (minimizers).
+# HTML5 Template + webpack + PostCSS (Boilerplate + Build tool)
+HTML5 template with CSS, JavaScript, images, and fonts support. The build tool is included (CSS and JS optimization support).
 
 ## Prerequisites
 
@@ -11,7 +10,7 @@ HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS o
 
 ```npm install```
 
-##
+## Scripts
 
 ### Run project
 
@@ -23,17 +22,26 @@ HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS o
 
 ### Run build/production version
 
-Run index.html file.
+Run index.html file (dist/index.html). 
 You can use the Live server to run index.html.
 
-Location: dist/index.html
+## Configuration
 
-### Configuration
+### npm 
 
-#### npm 
+#### JavaScript entry point
 
 Edit package.json file.
 
 Change the entry point here.
 
 ``` "main": "src/js/script.js",```
+
+### webpack
+#### Output directory
+
+Edit webpack.config.js file.
+
+Change the output directory here.
+
+```path: path.resolve(__dirname, "dist"),```
